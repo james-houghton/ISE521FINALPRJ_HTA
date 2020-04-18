@@ -3,3 +3,8 @@ boto
 requests
 pandas
 folium
+branca
+matplotlib
+ipyleaflet
+json
+os
