@@ -4,5 +4,4 @@ pandas
 folium
 branca
 matplotlib
-json
 os
