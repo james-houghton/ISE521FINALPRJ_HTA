@@ -4,4 +4,3 @@ pandas
 folium
 branca
 matplotlib
-os
