@@ -1,6 +1,7 @@
 numpy
 requests
 pandas
+geopandas
 folium
 branca
 matplotlib
