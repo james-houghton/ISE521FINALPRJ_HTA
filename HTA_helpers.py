@@ -9,7 +9,8 @@ Output
 ------
 time_list: List of Timestamps for binning EPB records into time blocks.
 """
-def gen_times_list(bin_type):
+def gen_times_list(bin_type=None):
+    
 
     def gen_hourly():
         time_list = []
