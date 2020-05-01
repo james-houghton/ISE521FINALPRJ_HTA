@@ -33,7 +33,7 @@ Launch Binder Repository using Binder icon on the left or the following link [li
 
 
 >Place Choropleth map here
->![Alt text](.data/static/Picture1.jpg "Optional title")
+
 
 
 
@@ -48,6 +48,7 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 
 #### HTA Procedure:
 > HTA Basic Example Diagram
+>![Alt text](./data/static/Picture1.jpg "Optional title")
 
 
 ##### Goals:
