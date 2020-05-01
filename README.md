@@ -7,13 +7,13 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 NOTES:
 I going to try to organize/structure everything for our final presentation and outline everything here. The binder_version branch of this repo will be used to continue implementing the Basic_example. This version will (eventually) outline each section and include placeholders with descriptions of the content that will eventually go there. Continue to use the binder_version branch and move content over incrementally once it is working/finished.
 
-Let me know anything if there are any many changes that need to be made or if you have any questions, comments, concerns.
+I will also try to add note to the Basic_Example notebook so take a look and et me know anything if there are any major changes that need to be made or if you have any questions, comments, concerns.
 
 
 File Descriptions:
 name and one sentence summary of what it does
 
-End Notes
+End Notes (this will be removed before final presentation)
 
 Begin Final Paper
 
