@@ -49,21 +49,21 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 #### HTA Procedure:
 
 1. Define Task Under Analysis
-- To create a data visualization tool for voter density data of a state(s) (Rhode Island) to infer voter arrival trends  (Why used → make repeatable, sub-goals, organize tasks, challenges, relevance in that context → goal to understand what needs to be done)
+  - To create a data visualization tool for voter density data of a state(s) (Rhode Island) to infer voter arrival trends  (Why used → make repeatable, sub-goals, organize tasks, challenges, relevance in that context → goal to understand what needs to be done)
 
 2. Data Collection Process
-- Automatic data collection is part of voting process, by digital check in process
-- Some states do not use a digital voting system*
+  - Automatic data collection is part of voting process, by digital check in process
+  - Some states do not use a digital voting system*
 
 3. Determine overall Goal of the Task
-- Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
+  - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
 
 4. Sub Goal of the task
-- Geo-data (adding data)
-- Election data
-- Form --Home screen--method --variable declaration (time, election data)
-- Style characteristics
-- Creation
+  -   Geo-data (adding data)
+  -   Election data
+  -   Form --Home screen--method --variable declaration (time, election data)
+  -   Style characteristics
+  -   Creation
 
 5. Sub-Goal Decomposition
 
