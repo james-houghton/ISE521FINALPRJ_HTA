@@ -75,21 +75,6 @@ Plans Analysis
 >![Alt text](./data/static/Picture1.jpg "Optional title")
 
 
-##### Goals:
-
--start with broad long term goal then narrow it down to what we did specifically
-
-
-The goal of this Hierarchical Task Analysis of is to create a data visualization tool for presenting geographically referenced time-series data
-
-
-##### Tasks:
-
-##### Hierarchies of goals and sub-goals:
-
-##### Plans and the organization of sub-goals:
-
-##### Stopping rules:
 
 
 Problem statement and Basic_Example.ipynb implementation
