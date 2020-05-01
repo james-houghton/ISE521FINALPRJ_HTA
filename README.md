@@ -17,7 +17,7 @@ End Notes (this will be removed before final presentation)
 
 Begin Final Paper
 
-##HTA for Choropleth Mapping
+## HTA for Choropleth Mapping
 
 Introduction:
 
