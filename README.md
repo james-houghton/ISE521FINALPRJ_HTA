@@ -21,9 +21,9 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 # Hierarchical Task Analysis for Choropleth Map Design Process
 
 
-## Introduction:
+#### Introduction:
 
-## Literature Review:
+### Literature Review:
 
 ## HTA Procedure:
 
