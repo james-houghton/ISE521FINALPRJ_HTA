@@ -26,9 +26,10 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 #### Literature Review:
 
 #### HTA Procedure:
+> HTA Basic Example Diagram
 
-##### Goals
 
+##### Goals:
 
 ##### Tasks:
 
