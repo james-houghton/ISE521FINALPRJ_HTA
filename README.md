@@ -21,11 +21,11 @@ Begin Final Paper
 ## Hierarchical Task Analysis for Choropleth Map Design Process
 This repository and associated Binder{thingy) were prepared by G. Aiello, F. Groß, and J. Houghton
 
-##### Introduction:
+#### Introduction:
 
 #### Literature Review:
 
-### HTA Procedure:
+#### HTA Procedure:
 
 Problem statement and Basic_Example.ipynb implementation
 
