@@ -19,19 +19,25 @@ Begin Final Paper
 
 
 # Hierarchical Task Analysis for Choropleth Map Design Process
-JH to create new binder and place icon here. the Binder icon at the top of this document is still connected the the binder_version
-[![GitHub tag]
+
+
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
-place binder icon here "Launch Binder Repository by clicking the icon to the left or using the following link" place link here
+JH to create new binder and place icon here. the Binder icon at the top of this document is still connected the the binder_version
 
+Launch Binder Repository using Binder icon on the left or the following link [link here]  
+
+### Choropleth map
 >Place Choropleth map here
+
+
 
 This repository and associated Binder{thingy) were prepared by G. Aiello, F. Groß, and J. Houghton
 
 #### Introduction:
 
 #### Literature Review:
+
 
 #### HTA Procedure:
 > HTA Basic Example Diagram
