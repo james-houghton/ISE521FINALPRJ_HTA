@@ -1,10 +1,7 @@
 numpy
-boto
 requests
 pandas
+geopandas
 folium
 branca
 matplotlib
-ipyleaflet
-json
-os
