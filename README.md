@@ -30,7 +30,12 @@ Launch Binder Repository using Binder icon on the left or the following link [li
 
 
 ### Choropleth map
+
+
 >Place Choropleth map here
+>![Alt text](.data/static/Picture1.jpg "Optional title")
+
+
 
 
 
