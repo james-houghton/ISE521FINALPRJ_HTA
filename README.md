@@ -25,4 +25,4 @@ HTA Procedure:
 
 Problem statement and Basic_Example.ipynb implementation
 
-https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA_test0.html
+https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA_test0.html/
