@@ -72,8 +72,12 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 6. Plans Analysis
   - we created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasable sequencing options.   
 
+7. Stopping Rules
+
+
 > HTA Basic Example Diagram
 >![Alt text](./data/static/Picture1.jpg "Optional title")
+
 
 
 
