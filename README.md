@@ -27,7 +27,16 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 
 #### HTA Procedure:
 
-##### Goal
+##### Goals
+
+
+##### Tasks:
+
+##### Hierarchies of goals and sub-goals:
+
+##### Plans and the organization of sub-goals:
+
+##### Stopping rules:
 
 Problem statement and Basic_Example.ipynb implementation
 
