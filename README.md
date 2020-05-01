@@ -20,7 +20,7 @@ Begin Final Paper
 
 # Hierarchical Task Analysis for Choropleth Map Design Process
 JH to create new binder and place icon here. the Binder icon at the top of this document is still connected the the binder_version
-
+[![GitHub tag]
 place binder icon here "Launch Binder Repository by clicking the icon to the left or using the following link" place link here
 
 >Place Choropleth map here
