@@ -21,11 +21,11 @@ Begin Final Paper
 # Hierarchical Task Analysis for Choropleth Map Design Process
 
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)  Launch Binder Repository using Binder icon on the left or the following link [link here]  
 
-JH to create new binder and place icon here. the Binder icon at the top of this document is still connected the the binder_version
+- JH to create new binder and place icon here. the Binder icon at the top of this document is still connected the the binder_version
 
-Launch Binder Repository using Binder icon on the left or the following link [link here]  
+
 
 ### Choropleth map
 >Place Choropleth map here
