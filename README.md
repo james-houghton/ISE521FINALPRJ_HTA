@@ -2,9 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/binder_version)
 
-This repository and associated Binder{thingy) were prepared by G. Aiello, F. Groß, and J. Houghton
 
-NOTES:
+
+# NOTES: (this will be removed before final presentation)
 I going to try to organize/structure everything for our final presentation and outline everything here (https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/README.md). The binder_version branch of this repo will be used to continue implementing the Basic_example. This version will (eventually) outline each section and include placeholders with descriptions of the content that will eventually go there. Continue to use the binder_version branch (for coding and link to lauch Binder) and I can move content over incrementally once it is working/finished.
 
 I will also try to add note to the Basic_Example notebook so take a look and et me know anything if there are any major changes that need to be made or if you have any questions, comments, concerns.
@@ -13,17 +13,19 @@ I will also try to add note to the Basic_Example notebook so take a look and et 
 File Descriptions:
 name and one sentence summary of what it does
 
-End Notes (this will be removed before final presentation)
 
 Begin Final Paper
+This repository and associated Binder{thingy) were prepared by G. Aiello, F. Groß, and J. Houghton
 
-## HTA for Choropleth Mapping
 
-Introduction:
+# Hierarchical Task Analysis for Choropleth Map Design Process
 
-Literature Review:
 
-HTA Procedure:
+## Introduction:
+
+## Literature Review:
+
+## HTA Procedure:
 
 Problem statement and Basic_Example.ipynb implementation
 
