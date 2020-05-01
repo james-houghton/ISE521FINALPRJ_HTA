@@ -50,7 +50,8 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 
 The Hierarchical Task Analysis framework is applied to define a generalized task sequence while simultaneously documenting the Task Flow and Information Processing Requirements inherent to a Choropleth mapping activity. Stanton's (2006) procedure for identifying sub-goal hierarchies and process plans is applied at the top level naievly assuming that the initial states of systems are under human control(or supervision) such that the goal of completing the Choropleth mapping activity can be achieved by performing fixed set of consecutive tasks whose process plans all terminate in the same state as the task begain.
 
-The test-operate-test-exit (TOTE) was explored at various sub-levels and task sequening plans to observe the information processing tasks requirements.   
+The test-operate-test-exit (TOTE) was explored at various sub-levels and task sequening plans to observe the information processing tasks requirements. The purpose of this exercise was to identify    
+
 
 
 
