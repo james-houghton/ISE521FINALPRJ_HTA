@@ -27,6 +27,8 @@ This repository and associated Binder{thingy) were prepared by G. Aiello, F. Gro
 
 #### HTA Procedure:
 
+##### Goal
+
 Problem statement and Basic_Example.ipynb implementation
 
 https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA_test0.html/
