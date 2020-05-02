@@ -122,4 +122,27 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was explor
 
 Problem statement and Basic_Example.ipynb implementation
 
+
+#### References
+(copy and pasted from  Fabian's word doc. not sure the best way to reformat it)
+
+Annett, J., Duncan, K.D., Stammers, R.B., Gray, M.J., 1971. Task Analysis. Department of Employment Training Information Paper 6. HMSO, London.
+Annett, J., 2004. Hierarchical task analysis. In: Diaper, D., Stanton, N.A. (Eds.), The Handbook of Task Analysis for Human–Computer Interaction. Lawrence Erlbaum Associates, Mahwah, NJ, pp. 67–82.
+Annett, J. and Stanton, N.A., 2000. Research and developments in task analysis. In Task Analysis, J. Annett and N.A. Stanton (Eds), pp. 1 – 8 (London: Taylor & Francis, 2000).
+Astley, J.A., Stammers, R.B., 1987. Adapting hierarchical task analysis for user–system interface design. In: Wilson, J.R., Corlett, E.N., Manenica, I. (Eds.), New Methods in Applied Ergonomics. Taylor & Francis, London, pp. 175–184.
+Bellotti, V.M.E., 1990. A framework for assessing applicability of HCI techniques. In Human-Computer Interaction, Interact 90, D. Diaper, D. Gilmore, G. Cockton and B. Shackel (Eds), (North Holland: Elsevier Science, 1990), pp. 213 – 218.
+Bruseberg, A., Shepherd, A., 1997. Job design in integrated mail processing. In: Harris, D. (Ed.), Engineering Psychology and Cognitive Ergonomics. Job Design and Product Design, vol. 2. Ashgate Publishing, Aldershot, Hampshire, pp. 25–32.
+Chapanis, A., 1951. Theory and methods for analysing errors in man–machine systems. Ann. NY Acad. Sci. 51 (6), pp. 1179–1203.
+Hodgkinson, G.P., Crawshaw, C.M., 1985. Hierarchical task analysis for ergonomics research. An application of the method to the design and evaluation of sound mixing consoles. Appl. Ergon. 16 (4), 289–299.
+IEEE, 2010. Systems and software engineering –vocabulary. ISO/IEC/IEEE 24765:2010(E) 1–418. doi: 10.1109/IEEESTD.2010.5733835.
+Kirwan, B., Ainsworth, L.K. (Eds.), 1992. A Guide to Task Analysis. Taylor & Francis, London.
+Mills, S., 1998. Information integration – a task orientated approach. Interacting with Computers, 9, 225 – 240.
+Mills, S., 2007. Contextualising design: Aspects of using usability context analysis and hierarchical task analysis for software design. Behaviour & Information Technology 26 (6), pp. 499-506.
+Piso, E., 1981. Task analysis for process-control tasks: the method of Annett et al. applied. Occup. Psychol. 54, 347–352.
+Shahabuddin, S.M., Yalla, P., 2017. Impact of Lean Software Development into Agile Process Model with Integration Testing prior to Unit Testing. Journal of Theoretical and Applied Information Technology 95 (22), pp. 6163-6175.
+Shepherd, A., 2000. HTA as a framework for task analysis. In Task Analysis, J. Annett and N.A. Stanton (Eds), pp. 9 – 24 (London: Taylor & Francis, 2000).
+Stanton, N., 2006. Hierarchical Task Analysis: Developments, applications, and extensions. Applied Ergonomics 37, pp. 55-79.
+Stanton, N.A., Young, M.S., 1999. A Guide to Methodology in Ergonomics. Taylor & Francis, London.
+Trautsch, F., Herbold, S., Grabowski, J., 2020. Are unit and integration test definitions still valid for modern Java projects? An empirical study on open-source projects. The Journal of Systems and Software 159.
+
 https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA_test0.html/
