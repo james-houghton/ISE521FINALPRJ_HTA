@@ -93,14 +93,14 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was explor
   - Some states do not use a digital voting system
 
 3. Determine overall Goal of the Task
-  - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
+    - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
 
 4. Sub Goal of the task
-  -implement a basic HTA example that defines a standardized, repeatable process for creating a Choropleth map
-  -   Geo-data (adding data)
-  -   Election data
-  -   Style characteristics
-  -   Adjustments
+    -implement a basic HTA example that defines a standardized, repeatable process for creating a Choropleth map
+    -   Geo-data (adding data)
+    -   Election data
+    -   Style characteristics
+    -   Adjustments
 
 5. Sub-Goal Decomposition
   - introduce the basic example and what is in the notebook.
