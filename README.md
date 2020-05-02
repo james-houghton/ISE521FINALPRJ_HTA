@@ -74,11 +74,14 @@ A procedure for development of the sub-goal hierarchy with the plans is presente
 
 #### HTA Procedure:
 
-The Hierarchical Task Analysis framework is applied to define a generalized task sequence while simultaneously documenting the Task Flow and Information Processing Requirements inherent to a Choropleth mapping activity. Stanton's (2006) procedure for identifying sub-goal hierarchies and process plans is applied at the top level first. Then at naively assuming that the initial states of systems are under human control(or supervision) a "clairvoyant" approach Belady's algorithm is used to identify a fixed set of tasks fixed set of tasks whose process plans all terminate in the same state as the task began.
+The Hierarchical Task Analysis framework is applied to define a generalized task sequence while simultaneously documenting the Task Flow and Information Processing Requirements inherent to a Choropleth mapping activity. Stanton's (2006) procedure for identifying sub-goal hierarchies and process plans is applied at the top level first. Then, assuming that the initial states of systems are under human control(or supervision), a "clairvoyant" approach Belady's algorithm is used to create process plans for a given subtasks.
 
-The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was explored at various sub-levels and task sequencing plans to observe the information processing tasks requirements. The purpose of this exercise was to develop an understanding of where opportunities exist for automating task functions to increase process efficiency without jeopardizing the generalizability or extensibility of the Choropleth mapping activity code.
+The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was explored at various sub-levels and task sequencing plans to observe the information processing tasks requirements. The purpose of this was to develop an understanding of where opportunities exist for automating modular task functions to increase process efficiency without jeopardizing the generalizability or extensibility. In this vein, process plans created in previous work (James personal code see notebook) were considered in the following Hierarchical Task Analysis with the goal of introducing subtasks that allow for limited customization of the Choropleth map above.  
 
-> "Unless we have a good reason to believe otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that the history repeats itself-backward. (Christian and Tom Griffiths)"
+
+> found this quote in the algo to live by book and want to use it to justify our hueristic for chosing were try refactoring/restructuring the code:
+>
+>"Unless we have a good reason to believe otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that the history repeats itself-backward. (Christian and Tom Griffiths)"
 
 
 
