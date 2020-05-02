@@ -116,6 +116,7 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was explor
 > HTA Basic Example Diagram
 >![Alt text](./data/static/Picture1.jpg "Optional title")
 
+- still need to fix the Y/N and change "Exit" to "Exit to Homescreen"
 
 
 
