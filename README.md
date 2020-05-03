@@ -94,18 +94,22 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was tested
   The task is to create a data visualization tool for creating a Time-Slider Choropleth maps for times-series data that are indexable by voter precinct and the geographic location area.   
 
 2. Data Collection Process
+
 The primary source of information available at the initial time of the HTA came from the [link to 'HTA____v0.ipynb'] file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Morover, the process steps in the file are labeled using a cumlative count index with all data stored in a fixed initial state. The data are from  locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task (code cells in link to HTA____v0) sequentially and observing an acceptable outcome for the overall Goal described as follows.
 
 3. Determine overall Goal of the Task
 
     - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
 
+
 The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that sucessfully accomplish the same goal in the initial state as well as a predefined future state.    
+
 
 4. Sub Goal of the task
 
-The subgoal of the task is document the outcome of executing the original process plan under when refactored into different functions. The information observed visually while executing Time-Slider Choropleth map process plan under a predefined set of future states 
-    -implement a basic HTA example that defines a standardized, repeatable process for creating a Choropleth map
+The subgoal of the task is document the outcome of executing the original process plan under when refactored into different functions. The information observed visually while executing Time-Slider Choropleth map process plan under a predefined set of future states
+
+    -   implement a basic HTA example that defines a standardized, repeatable process for creating a Choropleth map
     -   Geo-data (adding data)
     -   Election data
     -   Style characteristics
