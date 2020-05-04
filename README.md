@@ -77,15 +77,9 @@ A procedure for development of the sub-goal hierarchy with the plans is presente
 
 #### HTA Procedure:
 
-The Hierarchical Task Analysis framework is applied to define a generalized task sequence while simultaneously documenting the inherent Task Flow and Information Processing Requirements for a given  Choropleth mapping activity. Stanton's (2006) procedure for identifying sub-goal hierarchies and process plans is applied at the top level first. Then, assuming that the initial states of systems are under human control(or supervision), a "clairvoyant" approach often refered to as Belady's algorithm is used to create process plans for a specific subtasks.
+The Hierarchical Task Analysis framework is applied to define a generalized task sequence while simultaneously documenting the inherent Task Flow and Information Processing Requirements for a given  Choropleth mapping activity. Stanton's (2006) procedure for identifying sub-goal hierarchies and process plans is applied at the top level first. Then, assuming that the initial states of systems are under human control(or supervision), a "clairvoyant" approach often referred to as Belady's algorithm is used to create process plans for a specific subtasks.
 
 The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was tested various task sequencing plans at different sublevels to observe the information processing tasks requirements. The purpose of this was to develop an understanding of where opportunities exist for automating modular task functions to increase process efficiency without jeopardizing the generalizability or extensibility. In this vein, process plans created in previous work (James personal code see notebook) were considered in the following Hierarchical Task Analysis with the goal of introducing subtasks that allow for limited customization of the Choropleth map above.  
-
-
-> found this quote in the algo to live by book and want to use it to justify our hueristic for chosing were try refactoring/restructuring the code:
->
->"Unless we have a good reason to believe otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that the history repeats itself-backward. (Christian and Tom Griffiths)"
-
 
 
 
@@ -93,32 +87,22 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was tested
 
 ###### 1. Define Task Under Analysis
 
-  - To create a data visualization tool for voter density data of a state(s) (Rhode Island) to infer voter arrival trends  (Why used → make repeatable, sub-goals, organize tasks, challenges, relevance in that context → goal to understand what needs to be done).
 
-The task is to extend a data visualization tool for creating a Time-Slider Choropleth maps for times-series data that are indexable by voter precinct and the geographic location area. The existing data visualization tool to be extended   
+The task is to create a data visualization tool for rendering a Time-Slider Choropleth map for times-series data that are indexable by voter precinct and the geographic location area. The Choropleth map features a color scale that is linearly proportional to a the arrival rate of voters in each precinct during a given interval of time. The existing data visualization tool aims to be extended to include additional customization options. It is also important that the process plan is designed with in a generalized sense such that it is adaptable future use. As the specific customization requirements, time-series data structures, and geographic indicie schemas are not well documented in the existing process plans (HTA____v0), there is a need to investigate this further using Hierarchical Task analysis.    
 
 ###### 2. Data Collection Process
 
-The primary source of information available at the initial time of the HTA came from the [link to 'HTA____v0.ipynb'] file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from  locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task (code cells in link to HTA____v0) sequentially and observing an acceptable outcome for the overall Goal described as follows.
+The primary source of information available at the initial time of the HTA came from the [link to 'HTA____v0.ipynb'] file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task (code cells in link to HTA____v0) sequentially and observing an acceptable outcome for the overall Goal described as follows.
 
 ###### 3. Determine overall Goal of the Task
 
-  - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
 
-
-The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that sucessfully accomplish the same goal in the initial state as well as a predefined future state.    
-
-
+The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that successfully accomplish the same goal of creating (Choropleth map above) in the initial state defined in (HTA____v0) as well as a set of predefined future states.    
 
 ###### 4. Sub Goal of the task
 
-The subgoal of the task is document the outcome of executing the original process plan under when refactored into different functions. The information observed visually while executing Time-Slider Choropleth map process plan under a predefined set of future states
+The sub goal of the task is document the outcome of executing the original process plan under when refactored into different functions. The information observed visually while executing Time-Slider Choropleth map process plan is used to inform how the existing Choropleth mapping code can be further developed for broad application. Sub goals of this task are to also define a process plan for selecting a user-defined file paths to geo-data, time-series data, and color scale alternatives.
 
-    -   implement a basic HTA example that defines a standardized, repeatable process for creating a Choropleth map
-    -   Geo-data (adding data)
-    -   Election data
-    -   Style characteristics
-    -   Adjustments
 
 5. Sub-Goal Decomposition
   - introduce the basic example and what is in the notebook.
