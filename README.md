@@ -110,6 +110,8 @@ The sub goal of the task is document the outcome of executing the original proce
 
 
 6. Plans Analysis
+
+>![Alt text](./data/static/HTA_flowchart.png "Optional title")
   - we created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasible sequencing options.   
 
 7. Stopping Rules
