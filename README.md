@@ -82,9 +82,6 @@ The Hierarchical Task Analysis framework is applied to define a generalized task
 The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was tested various task sequencing plans at different sublevels to observe the information processing tasks requirements. The purpose of this was to develop an understanding of where opportunities exist for automating modular task functions to increase process efficiency without jeopardizing the generalizability or extensibility. In this vein, process plans created in previous work (James personal code see notebook) were considered in the following Hierarchical Task Analysis with the goal of introducing subtasks that allow for limited customization of the Choropleth map above.  
 
 
-
-> HTA here
-
 ###### 1. Define Task Under Analysis
 
 
