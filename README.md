@@ -42,6 +42,7 @@ Launch Binder Repository using Binder icon on the left or the following link [li
 This repository and associated Binder{thingy) were prepared by G. Aiello, F. Groß, and J. Houghton
 
 #### Introduction:
+
 Hierarchical Task Analysis (HTA) was first introduced by Annett and Duncan in 1967 (Annett & Duncan, 1967) and has been developed since then. It is known to be the best task analysis according to Kirwan & Ainsworth (1992). One of the most influential ideas for HTA rose in the 1950s. Especially the identification of error variance in system performance from systems theory was a crucial influence (Chapanis, 1951). Annett (2004) stated that the top-down systems approach that HTA uses, enables analysts to identify and deal with factors that generate the largest error variance. Most of the development of HTA in further years concentrated on the need for greater understanding of cognitive tasks (Annett, 2004). At the time HTA was originally developed, existing approaches to structure tasks tended to focus on observable aspects of performance while HTA sought to represent system goals and plans. That was a radical departure from contemporary approaches. HTA offered a way to describe a system in terms of goals and sub-goals, with feedback loops in a nested hierarchy (Stanton, 2006).
 
 HTA belongs to a category of task description methods that focus on crucial aspects of the task within the context of the overall task (Kirwan & Ainsworth, 1992). The basic hierarchy therefore represents a system without control that is influenced from above (authoritarian) or below (delegatory) (Shepherd, 2000). This make the approach goal oriented instead of action-oriented (Annett & Stanton, 2000).
@@ -53,10 +54,12 @@ Applications of HTA are observable in many different areas because of the approa
 
 Of special relevance in this paper is the application of HTA in software design. Bellotti (1990) for example used HTA to model situations within the field of human-computer interaction including the computer interface. Because of previously mentioned characteristics HTA is easy to implement into software design methodologies (Mills 1998), which may account for increasing use in the area of system’s design. In Mills (2007) a detailed discussion of advantages and disadvantages can be found. The most relevant advantage for software design is stated by Kirwan and Ainsworth (1992). It says that HTA offers two distinct training benefits to people engaged in the analysis. First, the analysts can gain insight into processes and procedures that are entailed in plants and organizations. Secondly, training benefits users since they are required to articulate their understanding of the system itself. The point is that by doing the actual HTA the developers acquire deeper understanding of their system which in fact is crucial if the resulting system is supposed to function well.
 
-Integration Test / Unit Test
+###### Integration Test / Unit Test
+
 When developing software it is of fundamental importance to test it. The main purpose of testing is to reveal defects. Defect detection capabilities vary with the applied testing methods (Trautsch, 2020). Two important testing methods are unit testing and integration testing. The IEEE standard ISO/IEC/IEEE 24765-2010 (IEEE, 2010) defines the most important vocabulary for software engineering. It defines a unit as a separately testable element specified in the design of a computer software component. It is a logically separable part that is not subdivided into other components. Unit tests are tests of individual hardware or software units or groups of related items. Integration testing relates to the progressive linking and testing of programs or modules in order to ensure their proper functioning in the complete system. Typically unit tests would be performed prior to testing the overall system with integration tests even though some authors argue about the sequential arrangement of these procedures (Shahabuddin, 2017). Some of the given definitions might be outdated due to rapid developments in modern software development contexts (Trautsch, 2020). Anyway, an overall understanding of the developed system is required in order to design good tests that allow successful applications. HTA as previously described is a method that makes developers acquire the relevant deep understanding which reveals possible synergies in the development process.
 
-HTA Procedure
+##### HTA Procedure
+
 The first paper to lay out approaches for conducting HTA was Annett et al. (1971). It states that the methodology is based upon a theory of human performance. Shepherd (2000) added that it can be regarded as a model of human behavior. As a lack of more information about the human operations can be dangerous, it is critical to follow some kind of guidance. There are three main principles governing the analysis (Annett et al., 1971):
 1.	At the highest level of hierarchy a task is considered to be consisting of an operation. This operation is defined in terms of its goal. The goal describes the overall objective of the system in terms of applicable criteria.
 2.	Operations can be broken down into sub-operations. Each of them is defined by a sub-goal which describes the contribution to the overall system’s goal. It is therefore measurable by performance standards and criteria.
@@ -88,24 +91,26 @@ The test-operate-test-exit (TOTE) procedure (Miller ref in HTA paper) was tested
 
 > HTA here
 
-###### Define Task Under Analysis
+###### 1. Define Task Under Analysis
+
   - To create a data visualization tool for voter density data of a state(s) (Rhode Island) to infer voter arrival trends  (Why used → make repeatable, sub-goals, organize tasks, challenges, relevance in that context → goal to understand what needs to be done).
 
-  The task is to create a data visualization tool for creating a Time-Slider Choropleth maps for times-series data that are indexable by voter precinct and the geographic location area.   
+The task is to extend a data visualization tool for creating a Time-Slider Choropleth maps for times-series data that are indexable by voter precinct and the geographic location area. The existing data visualization tool to be extended   
 
-2. Data Collection Process
+###### 2. Data Collection Process
 
-The primary source of information available at the initial time of the HTA came from the [link to 'HTA____v0.ipynb'] file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Morover, the process steps in the file are labeled using a cumlative count index with all data stored in a fixed initial state. The data are from  locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task (code cells in link to HTA____v0) sequentially and observing an acceptable outcome for the overall Goal described as follows.
+The primary source of information available at the initial time of the HTA came from the [link to 'HTA____v0.ipynb'] file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from  locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task (code cells in link to HTA____v0) sequentially and observing an acceptable outcome for the overall Goal described as follows.
 
-3. Determine overall Goal of the Task
+###### 3. Determine overall Goal of the Task
 
-    - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
+  - Visually represent arrival patterns given user specific defined variables by creating an interactive web application for the generation of maps
 
 
 The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that sucessfully accomplish the same goal in the initial state as well as a predefined future state.    
 
 
-4. Sub Goal of the task
+
+###### 4. Sub Goal of the task
 
 The subgoal of the task is document the outcome of executing the original process plan under when refactored into different functions. The information observed visually while executing Time-Slider Choropleth map process plan under a predefined set of future states
 
@@ -121,20 +126,15 @@ The subgoal of the task is document the outcome of executing the original proces
 
 
 6. Plans Analysis
-  - we created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasable sequencing options.   
+  - we created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasible sequencing options.   
 
 7. Stopping Rules
 
 
 > HTA Basic Example Diagram
->![Alt text](./data/static/Picture1.jpg "Optional title")
-
-- still need to fix the Y/N and change "Exit" to "Exit to Homescreen"
+>![Alt text](./data/static/HTA_final.png "Optional title")
 
 
-
-
-Problem statement and Basic_Example.ipynb implementation
 
 
 #### References
