@@ -5,25 +5,17 @@
 
 
 
-## Abstract 
+## Abstract
 ----------
-
-
-sdfwoefwgwega\
-sfasdgweg
-
-xdffw
-
-
-
+This repository contains the files and documentation relating to a Hierarchical Task Analysis (HTA) of a Choropleth mapping activity. The work presented in this readme.me markdown file, supplemented by the discussion of the (Basic Example notebook), serves as the author’s final project report for ISE/PSY:521 Human Systems Engineering course at the University of Rhode Island (Spring 2020). A brief introduction to the background of HTA  literature is discussed with a focus on its relation to human-computer systems, software development, and unit and integration testing. The HTA is applied to an better understand the Task Flow and Information Processing requirements inherent to creating the Choropleth map below. By studying the author's [previous work](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) through the lens of Hierarchical Task Analysis, a [Basic Example](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/Basic%20Example.ipynb) notebook is created that extends the customization capability of the original Choropleth mapping code. The implementation of the developed in this work is presented as a flow diagram to illustrate task flow and sub goal decomposition [(Stanton, 2006)](#references). A complete process plan with task definitions is created following the procedures defined by [(Annett & Duncan, 1967)](#references). The [Basic Example](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/Basic%20Example.ipynb) also documents observations pertinent to the future method analysis seeking to broaden the applicability of the Choropleth mapping code.
 
 ## Hierarchical Task Analysis for Choropleth Map Design Process via Binder
 ---
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/binder_version) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/binder_version)
 
-Launch Binder Repository using Binder icon above or  click __[here](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/7d62ae4bbce4d88e9117e6857e0f7d72450e7e3d?filepath=Basic%20Example.ipynb)__ to be directed to the "Basic Example" found in this repository. 
+Launch Binder Repository using Binder icon above or  click __[here](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/7d62ae4bbce4d88e9117e6857e0f7d72450e7e3d?filepath=Basic%20Example.ipynb)__ to be directed to the "Basic Example" found in this repository.
 
 
 
@@ -61,8 +53,8 @@ ___
 #### Introduction:
 
 
-Hierarchical Task Analysis (HTA) was first introduced by Annett and Duncan in 1967 
-[(Annett & Duncan, 1967)](#references) 
+Hierarchical Task Analysis (HTA) was first introduced by Annett and Duncan in 1967
+[(Annett & Duncan, 1967)](#references)
  and has been further developed since then. It is known to be the best task analysis according to Kirwan & Ainsworth [(1992)](#references). Identification of error variance in system performance from systems theory was a crucial influence in HTA begining in the 1950's [(Chapanis, 1951)](#references). Annett [(2004)](#references)  stated that the top-down systems approach, that HTA uses, enables analysts to identify and deal with factors that generate the largest error variance. Further development of HTA concentrated on the need for greater understanding of cognitive tasks [(Annett, 2004)](#references). At the time HTA was originally developed, existing approaches to structure tasks focused on observable aspects of performance while HTA sought to represent system goals and plans. That was a radical departure from contemporary approaches. HTA offered a way to describe a system in terms of goals and sub-goals, with feedback loops in a nested hierarchy [(Stanton, 2006)](#references).
 
 HTA belongs to a category of task description methods that focus on crucial aspects of the task within the context of the overall task [(Kirwan & Ainsworth, 1992)](#references). The basic hierarchy therefore represents a system without control that is influenced from above (authoritarian) or below (delegatory) [(Shepherd, 2000)](#references). This makes the approach goal oriented instead of action-oriented [(Annett & Stanton, 2000)](#references).
@@ -93,7 +85,8 @@ A procedure for development of the sub-goal hierarchy with the plans is presente
 -	Linking goals to sub-goals, and describe the conditions under which sub-goals are triggered
 -	Stop re-describing the sub-goals when you judge the analysis is fit-for-purpose
 
->Figure 1![Alt text](./data/static/sub_goal_stanton06.png "Statons procedure for development: Figure 1")
+>Figure 1
+>![Alt text](./data/static/sub_goal_stanton06.png "Statons procedure for development: Figure 1")
 
 #### HTA Procedure:
 
@@ -109,12 +102,12 @@ The task is to create a data visualization tool for rendering a Time-Slider Chor
 
 ###### 2. Data Collection Process
 
-The primary source of information available at the initial time of the HTA came from the [HTA____v0.ipynb](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task  sequentially and observing an acceptable outcome for the overall Goal described as follows.
+The primary source of information available at the initial time of the HTA came from the [HTA for making Choropleth maps v0](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) file provide Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task  sequentially and observing an acceptable outcome for the overall Goal described as follows.
 
 ###### 3. Determine overall Goal of the Task
 
 
-The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that successfully accomplish the same goal of creating a [Time-Slider Choropleth Map](#Choropleth-Map-Example) in the initial state defined in [(HTA____v0)](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) as well as a set of predefined future states.    
+The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that successfully accomplish the same goal of creating a [Time-Slider Choropleth Map](#Choropleth-Map-Example) in the initial state defined in [(HTA for making Choropleth maps v0)](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) as well as a set of predefined future states.    
 
 ###### 4. Sub Goal of the task
 
@@ -129,19 +122,20 @@ The sub goal of the task is to document the outcome of executing the original pr
 
 6. Plans Analysis
 
-In order to illustrate the structure of the defined sub-goal decomposition visualization was needed. Flow diagrams are very useful because they easily illustrate the connections and relations between the chosen sub-goals. This method makes it possible to better understand the task hierarchy and allows it to emphasize the task requirements and feasible sequencing options. Obviously the previously achieved results through the sub-goal decomposition have continuously developed and were expanded. This allowed defining the plans that are relevant for the structure of the final HTA. It needs to be noted that the plans analysis was not created in order to reflect the overall complexity. It considered a helpful tool whose objective is to show basic relations.We created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasible sequencing options.  
+In order to illustrate the structure of the defined sub-goal decomposition visualization was needed. Flow diagrams are very useful because they easily illustrate the connections and relations between the chosen sub-goals. This method makes it possible to better understand the task hierarchy and allows it to emphasize the task requirements and feasible sequencing options. Obviously the previously achieved results through the sub-goal decomposition have continuously developed and were expanded. This allowed defining the plans that are relevant for the structure of the final HTA. It needs to be noted that the plans analysis was not created in order to reflect the overall complexity. It considered a helpful tool whose objective is to show basic relations. We created the basic example to understand the Task Hierarchy and Flow in order to gain a better understanding of the task requirements and feasible sequencing options.  
 
 >![Alt text](./data/static/HTA_flowchart.png "Basic HTA Flowchart Example")
-   
+
 
 7. Stopping Rules
 
-Definitions of stopping rules require advanced understanding of the code and were therefore translated from the previously presented flow diagram. While developing the software some steps needed to be added since they were not obvious when the plans analysis was originally performed. After several adjustments during the process the final structure resulted. The stopping rules are included in the respective plans. They have been implemented through if-loops in combination with an HTA’s inherent characteristics. The homescreen for the process refers to the mainpage of the github repository that the project was built in.
+Definitions of stopping rules require advanced understanding of the code and were therefore translated from the previously presented flow diagram. While developing the software some steps needed to be added since they were not obvious when the plans analysis was originally performed. After several adjustments during the process the final structure resulted. The stopping rules are included in the respective plans. They have been implemented through if-loops in combination with HTA’s inherent characteristics. The homescreen for the process refers to the mainpage of the github repository that the project was built in.
 
 > HTA Basic Example Diagram
 >![Alt text](./data/static/HTA_final.png "HTA Basic Example Diagram")
 
 #### Conclusions:
+
 ____
 
 
@@ -185,5 +179,3 @@ Stanton, N., 2006. Hierarchical Task Analysis: Developments, applications, and e
 Stanton, N.A., Young, M.S., 1999. A Guide to Methodology in Ergonomics. Taylor & Francis, London.
 
 Trautsch, F., Herbold, S., Grabowski, J., 2020. Are unit and integration test definitions still valid for modern Java projects? An empirical study on open-source projects. The Journal of Systems and Software 159.
-
-
