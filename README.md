@@ -102,12 +102,12 @@ The task is to create a data visualization tool for rendering a Time-Slider Chor
 
 ###### 2. Data Collection Process
 
-The primary source of information available at the initial time of the HTA came from the [HTA for making Choropleth maps v0](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) file provided by Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from locally stored files or the [RIGIS link] but cannot be directly merged at the initial state of the system. The data collection process began by executing all task  sequentially and observing an acceptable outcome for the overall Goal described as follows.
+The primary source of information available at the initial time of the HTA came from the [HTA for making Choropleth maps v0](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) file provided by Houghton. This describes a series of task functions that can successfully complete the task at hand but does not specify the order. Moreover, the process steps in the file are labeled using a cumulative count index with all data stored in a fixed initial state. The data are from locally stored files or the [RIGIS website ](https://www.google.com/url?q=https://rhody.webex.com/rhody/j.php?MTID%3Dm731efac0733e19b728ec3d1ded4e70a9&sa=D&ust=1589111926976000&usg=AOvVaw1fGdDe-lPmO73-fmXn44rC) but cannot be directly merged at the initial state of the system. The data collection process began by executing all task  sequentially and observing an acceptable outcome for the overall Goal described as follows.
 
 ###### 3. Determine overall Goal of the Task
 
 
-The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that successfully accomplish the same goal of creating a [Time-Slider Choropleth Map](#Choropleth-Map-Example) in the initial state defined in [(HTA for making Choropleth maps v0)](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) as well as a set of predefined future states.    
+The overall goal is apply the principles of Hierarchical Task Analysis previously discussed to define an alternate set of process plans and functions that successfully accomplish the same goal of creating a [Time-Slider Choropleth Map](#Choropleth-Map-Example) in the initial state defined in [HTA for making Choropleth maps v0](https://github.com/james-houghton/ISE521FINALPRJ_HTA/blob/master/HTA%20for%20making%20Choropleth%20maps%20v0.ipynb) as well as a set of predefined future states.    
 
 ###### 4. Sub Goal of the task
 
