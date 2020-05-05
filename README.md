@@ -135,7 +135,9 @@ Definitions of stopping rules require advanced understanding of the code and wer
 >![Alt text](./data/static/HTA_final.png "HTA Basic Example Diagram")
 
 #### Conclusions:
+The HTA of the Choropleth mapping activity considered in the provided deeper insights into the hierarchical structural of task flow and information processing activities. An alternative process plan and task definitions are successfully implemented allowing minimal-customization capabilities to be introduced. The strategic conditional branching of within process plans is designed to allow for recursion to adjust the Choropleth map inputs. Further more, the Python code for sub goals related to precinct data, geodata, and map styling tasks can be modularized thus creating a linear task flow. This is advantageous for future developed of automated task evaluation functions as it allows for independent sub goal decomposition.   
 
+Future subtasks accounting for the fact that the codification of precincts and their corresponding geographic indicies do not follow a standardized data structure across the United States can be developed as needed an verified through unit testing methods as previously discussed. Integration testing procedures may also be developed and administered at key steps of the process to ensure repeatability and mitigate the impact of functional interdependencies while of automating future tasks.     
 ____
 
 
