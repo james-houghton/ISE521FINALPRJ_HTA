@@ -86,6 +86,7 @@ A procedure for development of the sub-goal hierarchy with the plans is presente
 -	Stop re-describing the sub-goals when you judge the analysis is fit-for-purpose
 
 >Figure 1
+>
 >![Alt text](./data/static/sub_goal_stanton06.png "Statons procedure for development: Figure 1")
 
 #### HTA Procedure:
