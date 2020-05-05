@@ -1,5 +1,4 @@
 # Hierarchical Task Analysis for Choropleth Map Design Process
-<<<<<<< HEAD
 >This repository and associated Binder were prepared by G. Aiello, F. Groß, and J. Houghton
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/binder_version)
@@ -21,27 +20,15 @@ xdffw
 ## Hierarchical Task Analysis for Choropleth Map Design Process via Binder
 ---
 
-=======
->>>>>>> 2b9db4551a151e40bc263350792019f76a70bb4b
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/binder_version) 
 
-<<<<<<< HEAD
 Launch Binder Repository using Binder icon above or  click __[here](https://mybinder.org/v2/gh/james-houghton/ISE521FINALPRJ_HTA/7d62ae4bbce4d88e9117e6857e0f7d72450e7e3d?filepath=Basic%20Example.ipynb)__ to be directed to the "Basic Example" found in this repository. 
-=======
-
-[![Binder](https://mybinder.org/badge_logo.svg)]  
->>>>>>> 2b9db4551a151e40bc263350792019f76a70bb4b
 
 
 
 ### Choropleth Map Example
 
-<<<<<<< HEAD
-
-=======
-### Choropleth map
->>>>>>> 2b9db4551a151e40bc263350792019f76a70bb4b
 
 >![Alt text](./data/static/test0.png "Choropleth Map for Rhode Island")
 
